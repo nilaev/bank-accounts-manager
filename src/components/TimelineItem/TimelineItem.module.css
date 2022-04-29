@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    width: 450px;
+    justify-content: space-between;
+    padding: 30px 18px 18px;
+    border-bottom: 1px solid #dddfe0;
+}
+
+.title {
+    margin: 0;
+    font-weight: 400;
+}
+
+.date {
+    color: #9299a2;
+}
