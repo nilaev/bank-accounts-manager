@@ -7,6 +7,8 @@
 
 Проект доступен по [ссылке](https://react-project-nilaev.vercel.app)
 
+![пример работы приложения](./public/hm2-example.gif)
+
 ## FAQ
 
 <details>
